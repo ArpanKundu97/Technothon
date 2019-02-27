@@ -8,10 +8,12 @@ Once such a model is created, whenever a new website initiates a new domain regi
 The model, once built has to be installed only at the domain registration servers and can also be installed by users who wish to scan their mails in order to detect possible human trafficking communications. However, when a new website is identified as suspicious, an investigation has to be conducted which will incur a cost. Some portion of the cost might not have been necessary as a genuine website might have been identified as suspicious. However, the social benefit which the introduction of this technique will bring in will be much more than the cost incurred and hence, the proposed technique is worth implementing.
 
 ## Steps Required to Run the Code
-The following steps are required in order to run the code:
+In order to run the code, download all the files in the form of a zip folder, unzip the downloaded zip file, say Technothon-master.zip, and then execute the following commands:
 
-1. python3 generateSampleData.py
+1. cd Technothon-master
 
-2. python3 Data_Analysis.py
+2. python3 generateSampleData.py
 
-3. python3 predictTraffic.py
+3. python3 Data_Analysis.py
+
+4. python3 predictTraffic.py
