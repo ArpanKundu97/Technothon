@@ -1,0 +1,7 @@
+Greetings from ABC Company!
+
+This is to inform you that you have been shortlisted for the role of a junior data engineer. We look forward to have you onboard. Request you to send us an acceptance mail in the next 24 hours.
+For any questions, please do e-mail me and I will revert to you.
+
+Regards,
+PQR XYZ
